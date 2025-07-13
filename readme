@@ -1,106 +1,33 @@
-# 👋 Hi, I'm Harsha Kolla
+\# 👋 Hi there, I'm Harsha Kolla!
 
-🎯 Software Engineer | AI & Data Systems | Cloud-Native Developer  
-📍 Saint Louis, MO (Open to relocate)  
-📫 harshakolla009@gmail.com  
+🚀 Software Engineer | AI & Data Systems | Cloud-Native Developer
+
+I'm a passionate software engineer currently pursuing my MS in Computer Science at Saint Louis University, graduating in May 2025. With 3+ years of experience in full-stack development and intelligent systems, I specialize in building scalable web applications and AI-powered platforms that solve real-world problems.
+
+---
+
+🛠️ **Tech Stack Highlights**  
+• Languages: JavaScript, Python, Java, TypeScript  
+• Frameworks: React, Node.js, Spring Boot, Express.js, FastAPI  
+• Databases: PostgreSQL, MongoDB, Firebase  
+• Cloud & DevOps: AWS, Docker, GitHub Actions, Kubernetes  
+• AI/ML Tools: Hugging Face, LangChain, OpenAI, TensorFlow  
+• Specialties: Scalable backends, LLM integrations, cloud-native deployment
+
+---
+
+💡 **Recent Projects**
+
+🔹 *Preppr AI:* A cloud-native disaster response system using OpenAI, Stripe, and AWS — reduced response time by 85%.  
+🔹 *Tools4Logistics:* AI-optimized logistics platform with LLM chatbot (Groq + LangChain) for dynamic routing.  
+🔹 *Founders Lounge:* Tiered membership portal with role-based access, Stripe automation, and integrated LLM assistant.  
+🔹 *CentrX:* SLU campus engagement platform with secure OAuth login and dynamic event leaderboard.
+
+---
+
+📫 [Email Me](mailto:harshakolla009@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/harsha-kolla-357a211a8) | [Portfolio](https://harshakolla18.github.io)
 
 ---
 
-## 🧑‍💻 About Me
-
-I'm a hands-on Software Engineer with **3+ years of experience** in full-stack development, AI-integrated systems, and scalable backend architectures. I specialize in building impactful applications using **React, Node.js, Spring Boot, and Firebase**, and have strong experience with **LLMs (LangChain, Hugging Face, OpenAI)** and cloud tools like **AWS & Docker**.
-
----
-
-## 🛠️ Tech Stack
-
-- **Languages:** JavaScript, Python, Java, C++, TypeScript  
-- **Frameworks:** React, Node.js, Spring Boot, Express.js, FastAPI  
-- **Databases:** PostgreSQL, MongoDB, MySQL, Firebase Firestore  
-- **Cloud & DevOps:** AWS (EC2, S3, SQS), Docker, Kubernetes, Prisma, GitHub Actions  
-- **AI/ML:** Hugging Face Transformers, LangChain, OpenAI APIs, TensorFlow, FAISS  
-- **Other:** REST APIs, Prompt Engineering, CI/CD, Agile, SDLC
-
----
-
-## 💼 Featured Projects
-
-### 🔹 [Preppr AI](https://www.preppr.ai/)
-> Cloud-native disaster response platform with AI-powered orchestration and Stripe payment support  
-**Stack:** React, Node.js, OpenAI, FAISS, AWS, Docker, Grafana
-
-### 🔹 [Tools4Logistics](https://www.tools4logistics.com/)
-> AI-optimized logistics platform with LLM chatbot (Groq + LangChain)  
-**Stack:** React, Firebase, Hugging Face, Google Auth, CI/CD
-
-### 🔹 [Founders Lounge](https://www.foundersloungeglobal.com/)
-> Membership platform with automated billing, LLM assistant & role-based access  
-**Stack:** Firebase, Firestore, Stripe, OpenAI, PostgreSQL
-
-### 🔹 CentrX – Campus Engagement Platform  
-> SLU event RSVP + leaderboard system with SSO authentication  
-**Stack:** Node.js, MongoDB, Express.js, JWT, SLU OAuth
-
----
-
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=harshakolla18&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harshakolla18&layout=compact&theme=tokyonight)  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=harshakolla18&theme=tokyonight)](https://git.io/streak-stats)
-
----
-
-## 🏆 GitHub Achievements
-
-![GitHub Achievements](https://github-profile-trophy.vercel.app/?username=harshakolla18&theme=onedark&margin-w=10&no-bg=true)
-
----
-
-## 📈 GitHub Contribution Graph
-
-![Harsha's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=harshakolla18&theme=github-compact&area=true&hide_border=true)
-
----
-
-## 🧩 Activity Overview
-
-I actively contribute to open-source and university-led projects, engaging in various areas of the development lifecycle:
-
-| Activity Type     | Percentage |
-|-------------------|------------|
-| 💻 Commits        | 42%        |
-| 🧠 Code Review    | 24%        |
-| 🐞 Issues         | 23%        |
-| 🔀 Pull Requests  | 11%        |
-
-📂 Recent contributions to:
-- [`TPEN-interfaces`](https://github.com/oss-slu/TPEN-interfaces)
-- [`Permit-Management-System`](https://github.com/MutyaSowmya123/Permit-Management-System)
-- [`Contact-List-Manager-AR`](https://github.com/MutyaSowmya123/Contact-List-Manager-AR)
-
-🏷️ Working across 10+ repositories | Open source + academic collabs
-
----
-
-## 🧠 Learning & Certifications
-
-- ☁️ AWS Certified Cloud Practitioner  
-- 🤖 Agentic AI Developer (2025)  
-- 📚 Ongoing: Prompt Chaining, Kubernetes, System Design
-
----
-
-## 🌐 Let's Connect
-
-- 📬 Email: harshakolla009@gmail.com  
-- 🌍 [LinkedIn](https://www.linkedin.com/in/harsha-kolla-357a211a8)  
-- 🌐 [Portfolio](https://harshakolla18.github.io)
-
----
-
-## 🔗 GitHub Profile Badges
-
-![Profile Views](https://komarev.com/ghpvc/?username=harshakolla18&color=blue)
-![Followers](https://img.shields.io/github/followers/harshakolla18?label=Follow&style=social)
+I'm always eager to collaborate, build meaningful tech, and solve problems at scale!

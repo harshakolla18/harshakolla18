@@ -1,33 +1,31 @@
-\# 👋 Hi there, I'm Harsha Kolla!
+# 👋 Hi, I'm Reddy Harsha Vardhan!
 
-🚀 Software Engineer | AI & Data Systems | Cloud-Native Developer
+🚀 AI Engineer | Production AI/ML Systems | Cloud-Native (AWS · Azure · GCP)
 
-I'm a passionate software engineer currently pursuing my MS in Computer Science at Saint Louis University, graduating in May 2025. With 3+ years of experience in full-stack development and intelligent systems, I specialize in building scalable web applications and AI-powered platforms that solve real-world problems.
-
----
-
-🛠️ **Tech Stack Highlights**  
-• Languages: JavaScript, Python, Java, TypeScript  
-• Frameworks: React, Node.js, Spring Boot, Express.js, FastAPI  
-• Databases: PostgreSQL, MongoDB, Firebase  
-• Cloud & DevOps: AWS, Docker, GitHub Actions, Kubernetes  
-• AI/ML Tools: Hugging Face, LangChain, OpenAI, TensorFlow  
-• Specialties: Scalable backends, LLM integrations, cloud-native deployment
+AI Engineer with 2+ years of experience building and deploying production-grade AI/ML systems on cloud platforms. Hands-on across the full ML lifecycle — data preprocessing, training, validation, containerized deployment, and post-launch monitoring — with Docker, Kubernetes (EKS, HPA), and CI/CD. I build RAG pipelines, multi-agent systems, RESTful inference APIs, and LLM-powered applications used in regulated, high-traffic environments.
 
 ---
 
-💡 **Recent Projects**
-
-🔹 *Preppr AI:* A cloud-native disaster response system using OpenAI, Stripe, and AWS — reduced response time by 85%.  
-🔹 *Tools4Logistics:* AI-optimized logistics platform with LLM chatbot (Groq + LangChain) for dynamic routing.  
-🔹 *Founders Lounge:* Tiered membership portal with role-based access, Stripe automation, and integrated LLM assistant.  
-🔹 *CentrX:* SLU campus engagement platform with secure OAuth login and dynamic event leaderboard.
-
----
-
-📫 [Email Me](mailto:harshakolla009@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/harsha-kolla-357a211a8) | [Portfolio](https://harshakolla18.com)
+🛠️ **Tech Stack Highlights**
+- **Languages:** Python, Java, SQL, JavaScript
+- **AI/ML:** LangChain, LangGraph, GPT-4o, FastAPI, RAG, RLHF, Multi-Agent Systems
+- **Cloud & DevOps:** AWS (EKS, ECR, Lambda, API Gateway), Docker, Kubernetes, Jenkins, GitHub Actions
+- **Data:** PostgreSQL, DynamoDB, MongoDB, Redis, Prisma ORM, SQLAlchemy
+- **Observability:** CloudWatch, Prometheus, Grafana, DataDog
+- **Specialties:** Model drift detection, MLOps, Generative AI, end-to-end product delivery
 
 ---
 
-I'm always eager to collaborate, build meaningful tech, and solve problems at scale!
+💼 **Experience**
+
+🔹 *Bluhold (USA) — AI Engineer*: Production AI/ML on AWS EKS with HPA-driven scaling, RAG over internal docs (LangChain + GPT-4o), drift detection, and end-to-end observability.
+🔹 *Alpha Recon (USA) — Software Engineer, AI*: Built Secure Recon, an AI threat intelligence platform with embedding-based semantic search and LangChain LLM workflows that cut analyst workload by 60%.
+🔹 *Bank of America (India) — Software Engineer*: Banking microservices in Spring Boot with ML-powered fraud/risk scoring and NLP ticket triage that reduced manual workload by 50%.
+
+---
+
+📫 [Email](mailto:harshakolla18@gmail.com) · 🌐 [Portfolio](https://harshakolla.com)
+
+---
+
+Open to relocate · Always up for collaborating on production AI systems at scale.

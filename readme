@@ -1,154 +1,51 @@
-# Harsha Vardhan Reddy
-## AI/ML Engineer | Co-Founder @ [neostechus.com](https://neostechus.com)
+# Hi, I'm Harsha Vardhan Reddy 👋
 
-📞 +1 (314)-433-5381 | 📧 harshavardhankolla3060@gmail.com
+**AI/ML Engineer** | **Co-Founder @ [neostechus.com](https://neostechus.com)** | 9+ Years Experience
 
----
-
-## 🧠 Professional Summary
-
-- AI/ML Engineer with **9+ years of experience** in designing, developing, and deploying scalable machine learning, deep learning, and Generative AI solutions.
-- Strong expertise in end-to-end ML lifecycle including data engineering, feature engineering, model building, deployment, and monitoring.
-- Proven ability to deliver production-grade AI systems such as recommendation engines, NLP-based chatbots, predictive analytics systems, and LLM-powered applications using modern MLOps practices and cloud platforms.
-- Skilled in building end-to-end ML pipelines including data preprocessing, feature engineering, model training, evaluation, deployment, and monitoring.
-- Experienced in applying supervised, unsupervised, and reinforcement learning techniques to solve complex business problems across multiple domains.
-- Strong expertise in deep learning architectures such as CNNs, RNNs, LSTMs, and Transformers for NLP and computer vision applications.
-- Hands-on experience in Generative AI technologies including Large Language Models (LLMs), prompt engineering, embeddings, and Retrieval-Augmented Generation (RAG).
-- Proficient in developing intelligent NLP solutions such as chatbots, sentiment analysis systems, text classification, and information retrieval systems.
-- Experienced in building scalable and production-ready ML systems using FastAPI, Flask, Docker, and cloud platforms like AWS, Azure, and GCP.
-- Strong knowledge of MLOps practices including CI/CD pipelines, model versioning, monitoring, and automated retraining workflows.
-- Adept at working with large datasets using Python, SQL, Pandas, NumPy, and distributed processing tools like Spark.
-- Experienced in deploying machine learning models into production environments with a focus on performance, scalability, and reliability.
-- Passionate about leveraging AI/ML and Generative AI technologies to drive automation, improve decision-making, and deliver business value.
-- Continuously learning and adapting to emerging AI technologies including LLM fine-tuning, vector databases, and agent-based AI systems.
+📞 +1 (314)-433-5381 · 📧 harshavardhankolla3060@gmail.com
 
 ---
 
-## 🛠️ Technical Skills
+### 🧠 About Me
 
-| Category | Skills |
+AI/ML Engineer specializing in end-to-end machine learning, deep learning, and Generative AI solutions. Experienced in building production-grade systems — from LLM-powered chatbots and RAG pipelines to recommendation engines and predictive analytics — using modern MLOps practices on AWS, Azure, and GCP.
+
+---
+
+### 🛠️ Tech Stack
+
+| | |
 |---|---|
-| **Programming** | Python, SQL, Scala, Java |
-| **Machine Learning** | Regression, Classification, Clustering, Ensemble Models, XGBoost, Random Forest |
-| **Deep Learning** | CNN, RNN, LSTM, Transformers, Attention Models |
-| **Generative AI** | LLMs, Prompt Engineering, RAG Pipelines, Fine-tuning, Embeddings |
-| **NLP** | Text Classification, Sentiment Analysis, Chatbots, NER, Topic Modeling |
-| **Computer Vision** | Object Detection, Image Classification, OpenCV, YOLO |
-| **Frameworks** | TensorFlow, PyTorch, Scikit-learn, Keras |
-| **MLOps** | MLflow, Docker, Kubernetes, CI/CD, Model Monitoring |
-| **Cloud Platforms** | AWS (S3, SageMaker, Lambda), Azure ML, GCP AI Platform |
-| **Data Engineering** | Pandas, NumPy, Spark, ETL Pipelines |
-| **Databases** | MySQL, PostgreSQL, MongoDB, Vector DBs (FAISS, Pinecone) |
-| **Tools** | Git, Jupyter, Airflow, Kafka |
+| **Languages** | Python · SQL · Scala · Java |
+| **ML/DL** | Scikit-learn · XGBoost · TensorFlow · PyTorch · Keras |
+| **Generative AI** | LLMs · RAG · Prompt Engineering · Fine-tuning · Embeddings |
+| **NLP & CV** | Transformers · Hugging Face · OpenCV · YOLO |
+| **MLOps** | MLflow · Docker · Kubernetes · CI/CD · Airflow |
+| **Cloud** | AWS (S3, SageMaker, Lambda) · Azure ML · GCP AI Platform |
+| **Databases** | PostgreSQL · MongoDB · FAISS · Pinecone |
 
 ---
 
-## 💼 Professional Experience
+### 💼 Experience
 
-### Freddie Mac | McLean, VA | *March 2025 – Present*
-**AI Engineer**
-
-- Designed and developed machine learning models for classification, regression, clustering, and recommendation systems to solve real-world business problems.
-- Built and optimized ML pipelines using Scikit-learn, XGBoost, and ensemble techniques to improve model accuracy and performance.
-- Applied feature engineering, data preprocessing, and hyperparameter tuning to enhance model efficiency and reduce error rates.
-- Evaluated models using performance metrics such as accuracy, precision, recall, F1-score, ROC-AUC, and confusion matrix analysis.
-- Implemented scalable predictive models for large-scale datasets, improving decision-making and business insights.
-- Built modular and reusable ML frameworks that standardized model development workflows across multiple teams.
-- Implemented advanced ensemble learning techniques and model stacking strategies that improved predictive accuracy and reduced variance across production models.
-- Engineered automated feature engineering pipelines that dynamically generated and selected high-impact features.
-- Designed and deployed end-to-end MLOps infrastructure enabling CI/CT/CD of ML models.
-- Established model monitoring and observability systems to track data drift, concept drift, and model degradation in production.
-- Built fault-tolerant and scalable API-based ML serving systems using FastAPI and Kubernetes.
-- Developed AI-driven recommendation systems leveraging collaborative filtering, matrix factorization, and deep learning embeddings.
-- Implemented anomaly detection systems for fraud detection and predictive maintenance using unsupervised learning.
-- Designed and optimized NLP pipelines for large-scale text analytics, including document classification, entity extraction, and semantic search.
-- Fine-tuned transformer-based models for domain-specific applications, improving contextual understanding and response relevance.
-
-**Environment:** Python, R, Scikit-learn, XGBoost, LightGBM, TensorFlow, PyTorch, Keras, Pandas, NumPy, SciPy, FastAPI, Flask, REST APIs, Docker, Kubernetes, MLflow, Airflow, Git, CI/CD (Jenkins/GitHub Actions)
+| Role | Company | Period |
+|---|---|---|
+| AI Engineer | Freddie Mac, McLean VA | Mar 2025 – Present |
+| AI Engineer | Walgreens Boots Alliance, Deerfield IL | Jun 2023 – Feb 2025 |
+| ML Engineer | Merck Pharmacy, Branchburg NJ | Oct 2021 – May 2023 |
+| ML Engineer – Data Science | Raytheon Technologies, Waltham MA | Aug 2019 – Sep 2021 |
+| Data Scientist | Paradigm, Hyderabad India | Jan 2017 – Apr 2019 |
 
 ---
 
-### Walgreens Boots Alliance | Deerfield, IL | *June 2023 – Feb 2025*
-**AI Engineer**
+### 🚀 Highlights
 
-- Developed scalable chatbot frameworks capable of handling multi-turn conversations with memory and contextual awareness using LLMs.
-- Implemented distributed training strategies for deep learning models using GPU acceleration, reducing training time significantly.
-- Designed data validation and quality assurance frameworks to ensure consistency, completeness, and reliability of training datasets.
-- Built automated hyperparameter tuning systems using Bayesian optimization and grid/random search to enhance model performance.
-- Integrated CI/CD pipelines using Jenkins/GitHub Actions for automated model testing, validation, and deployment workflows.
-- Collaborated with DevOps and Cloud teams to deploy containerized ML services using Docker and Kubernetes in production environments.
-- Led optimization efforts that reduced inference latency and infrastructure costs while maintaining high model accuracy and stability.
-- Designed multi-modal AI systems combining text, image, and structured data inputs for advanced decision-making applications.
-- Implemented secure and compliant ML systems with role-based access control and data governance policies for enterprise environments.
-- Developed intelligent alerting systems that trigger automated retraining pipelines based on performance thresholds and drift detection.
-- Built scalable data labeling and annotation pipelines to improve dataset quality for supervised learning tasks.
-- Optimized deep learning model inference using quantization, pruning, and ONNX conversion for faster and lightweight deployment.
-- Designed AI-powered decision support systems that assist business users with predictive insights and automated recommendations.
-- Developed scalable batch and real-time prediction systems supporting millions of daily requests in production environments.
-- Created reusable ML microservices architecture enabling independent deployment and scaling of individual models.
-
-**Environment:** Python, R, Scikit-learn, XGBoost, LightGBM, TensorFlow, PyTorch, Keras, Hugging Face Transformers, Pandas, NumPy, SciPy, OpenCV, FastAPI, Flask, REST APIs, Docker, Kubernetes, MLflow, Airflow, Git, CI/CD (Jenkins/GitHub Actions), ONNX, Optuna
+- Built scalable **LLM-powered chatbots** with multi-turn memory and contextual awareness
+- Designed **end-to-end MLOps pipelines** with CI/CT/CD, drift detection, and auto-retraining
+- Delivered **RAG & Generative AI** systems for document intelligence and semantic search
+- Implemented **anomaly detection** and **fraud detection** systems using unsupervised learning
+- Optimized DL inference with quantization, pruning, and ONNX for production deployment
 
 ---
 
-### Merck Pharmacy | Branchburg, NJ | *Oct 2021 – May 2023*
-**ML Engineer**
-
-- Designed and implemented scalable machine learning architectures capable of supporting high-volume data processing and real-time inference in production environments.
-- Built modular ML systems with reusable components for data ingestion, feature engineering, training, and inference.
-- Developed high-throughput prediction services capable of handling large concurrent user requests with optimized latency and reliability.
-- Engineered automated ML pipelines (AutoML-style workflows) for continuous model training, evaluation, and deployment across multiple environments.
-- Designed distributed training workflows to handle large datasets efficiently using parallel processing and cloud-based compute infrastructure.
-- Built anomaly detection systems using unsupervised learning techniques to identify fraud, system failures, and unusual patterns in data.
-- Developed intelligent forecasting systems for time-series data, improving demand prediction and business planning accuracy.
-- Created feature engineering frameworks that standardized feature creation and reuse across multiple machine learning projects.
-- Implemented real-time scoring engines for machine learning models integrated with streaming data sources.
-- Designed and deployed recommendation systems using collaborative filtering, matrix factorization, and deep learning embeddings.
-- Built scalable ETL pipelines to transform raw data into machine-learning-ready datasets using batch and streaming architectures.
-- Implemented model explainability techniques (SHAP, LIME) to improve transparency and stakeholder trust in ML predictions.
-- Designed A/B testing frameworks to evaluate model performance in live production environments.
-- Implemented CI/CD pipelines for machine learning models enabling automated testing, validation, and seamless deployment.
-
-**Environment:** Python, R, Scikit-learn, XGBoost, LightGBM, TensorFlow, PyTorch, Keras, Pandas, NumPy, SciPy, Hugging Face Transformers, FastAPI, Flask, REST APIs, Docker, Kubernetes, MLflow, Airflow, Git, CI/CD (Jenkins/GitHub Actions), Optuna, SHAP, LIME
-
----
-
-### Raytheon Technologies | Waltham, MA | *Aug 2019 – Sept 2021*
-**ML Engineer – Data Science**
-
-- Developed end-to-end data science solutions by applying statistical analysis, machine learning algorithms, and predictive modeling techniques to solve business problems.
-- Built and deployed supervised and unsupervised learning models for classification, regression, clustering, and forecasting use cases.
-- Applied advanced algorithms including Linear/Logistic Regression, Random Forest, XGBoost, SVM, K-Means, and DBSCAN for data-driven insights.
-- Performed model evaluation using metrics such as accuracy, precision, recall, F1-score, ROC-AUC, and RMSE.
-- Designed and implemented scalable end-to-end data science platforms that unified data ingestion, feature engineering, model training, and deployment.
-- Built enterprise-grade predictive analytics systems capable of processing large-scale datasets to generate real-time and batch insights.
-- Engineered distributed data processing workflows using Spark and cloud infrastructure to handle high-volume structured and unstructured datasets.
-- Designed advanced ensemble modeling frameworks combining multiple ML algorithms to significantly improve predictive accuracy and robustness.
-- Implemented end-to-end data governance and validation frameworks ensuring high data quality and reliability across ML pipelines.
-- Developed intelligent forecasting models for demand planning, sales prediction, and trend analysis using time-series and deep learning approaches.
-- Implemented explainable AI (XAI) frameworks using SHAP and LIME to provide interpretability and transparency for business stakeholders.
-
-**Environment:** Python, R, Scikit-learn, XGBoost, LightGBM, TensorFlow, PyTorch, Keras, Pandas, NumPy, SciPy, Statsmodels, FastAPI, Flask, REST APIs, Docker, Kubernetes, MLflow, Airflow, Git, CI/CD (Jenkins/GitHub Actions), Optuna, SHAP, LIME
-
----
-
-### Paradigm | Hyderabad, India | *Jan 2017 – April 2019*
-**Data Science**
-
-- Designed and implemented scalable data science architectures that unify data ingestion, processing, feature engineering, modeling, and deployment into a single end-to-end analytical ecosystem.
-- Built enterprise-level predictive analytics systems capable of processing large-scale datasets to deliver real-time and batch insights for strategic decision-making.
-- Developed automated machine learning workflows that streamline model training, validation, and deployment, reducing manual intervention.
-- Engineered distributed data processing pipelines using Spark and cloud platforms to handle high-volume, high-velocity structured and unstructured data.
-- Built real-time analytics systems integrated with streaming data sources to enable instant insights and decision-making capabilities.
-- Designed advanced ensemble learning frameworks combining multiple models to improve predictive accuracy, stability, and generalization.
-- Implemented robust data quality frameworks to ensure accuracy, consistency, and reliability across all stages of the data lifecycle.
-- Developed intelligent forecasting systems using statistical and deep learning techniques for demand prediction, sales forecasting, and trend analysis.
-- Built scalable feature engineering frameworks to standardize and automate feature creation across multiple data science projects.
-- Designed anomaly detection systems for fraud detection, risk assessment, and system monitoring using unsupervised learning techniques.
-- Implemented explainable AI (XAI) techniques such as SHAP and LIME to improve model transparency and stakeholder trust.
-
-**Environment:** Python, R, Scikit-learn, XGBoost, LightGBM, TensorFlow, PyTorch, Keras, Pandas, NumPy, SciPy, Statsmodels, FastAPI, Flask, REST APIs, Docker, Kubernetes, MLflow, Airflow, Git, CI/CD (Jenkins/GitHub Actions), Optuna, SHAP, LIME, DVC
-
----
-
-*Open to collaborating on production AI systems at scale.*
+*Open to collaborating on AI/ML and production-scale systems.*
